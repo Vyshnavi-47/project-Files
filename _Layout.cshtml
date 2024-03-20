@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyWebApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/style.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MyWebApp.style.css" asp-append-version="true" />
+    <style>
+        .navbar-brand .brand-text {
+            font-size: smaller;
+            /* Adjust the font size as desired */
+        }
+    </style>
+</head>
+
+
+
+
+<body>
+    <div id="google_translate_element" style="display:none;"></div>
+
+
+
+
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en'  }, 'google_translate_element');
+        }
+
+
+
+
+        function toggleTranslate() {
+            var translateElement = document.getElementById('google_translate_element');
+            if (translateElement.style.display === 'none') {
+                translateElement.style.display = 'block';
+            } else {
+                translateElement.style.display = 'none';
+            }
+        }
+    </script>
+
+
+
+
+    <script type="text/javascript"
+        src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
+
+    <!-- Top Navigation Bar -->
+    <nav class="navbar navbar-expand-sm navbar-light bg-white navbar-top">
+        <div class="container-fluid university--head">
+            <a class="navbar-brand small-brand" href="http://www.ttu.edu/" <span>Texas Tech University</span></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavTop"
+                aria-controls="navbarNavTop" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse small-brand" id="navbarNavTop">
+                <ul class="navbar-nav small-brand">
+                    <li class="nav-item">
+                        <a class="nav-link " href="http://directory.texastech.edu/" tabindex="2"
+                            aria-label="TTU System Online Directory">Directory</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="http://raiderlink.ttu.edu/" tabindex="3"
+                            aria-label="Raiderlink">Raiderlink</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="http://www.ttu.edu/site/" tabindex="4" aria-label="Site Index">A-Z
+                            Index</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="toggleTranslate()">Translate</a>
+                    </li>
+                    <li class="nav-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-search" viewBox="0 0 16 16">
+                            <path
+                                d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+                        </svg>
+                    </li>
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+<!-- Page Header Navigation-->
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container-fluid">
+            <div class="header-content">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="https://www.depts.ttu.edu/_ttu-template/2017/img/dbl__T.svg" alt="Texas Tech University Logo" style="height: 100px;">
+                    <span class="college-name">College of Arts and Sciences Microscopy</span>
+                </a>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - MyWebApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
+

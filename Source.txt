@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<!-- saved from url=(0031)https://www.depts.ttu.edu/casm/ -->
+<html class="ttu  js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en-us" style="height: 100%;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+   <meta name="theme-color" content="#cc0000">
+   <meta name="apple-mobile-web-app-status-bar-style" content="#cc0000">
+   <meta name="apple-mobile-web-app-capable" content="yes">
+   <title>College of Arts &amp; Sciences Microscopy | CASM  | TTU</title>
+   <!-- Current Version 2017 -->
+<link rel="stylesheet" href="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/style.min.css" media="all">
+<link rel="shortcut icon" href="https://www.depts.ttu.edu/_ttu-template/2017/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.depts.ttu.edu/_ttu-template/2017/img/favicon.ico" type="image/x-icon">
+<script async="" src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/analytics.js.download"></script><script async="" src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/gtm.js.download"></script><script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/jquery-2.1.1.js.download"></script> 
+<script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/jquery.mobile.custom.min.js.download"></script> 
+
+<script type="text/javascript">
+	var MTIProjectId = '76d1bfe1-39f8-4fc4-9202-23ddf5addb92';
+	(function() {
+		var mtiTracking = document.createElement('script');
+		mtiTracking.type = 'text/javascript';
+		mtiTracking.async = 'true';
+		mtiTracking.src = '/_ttu-template/2017/js/mtiFontTrackingCode.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mtiTracking);
+	})();
+</script><script type="text/javascript" async="" src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/mtiFontTrackingCode.js.download"></script>
+
+<script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/modernizr.js.download"></script>
+<script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/scroll.js.download"></script>
+<script>function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}</script><script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/element.js.download"></script><link type="text/css" rel="stylesheet" href="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/1.css"><link type="text/css" rel="stylesheet" charset="UTF-8" href="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/m=el_main"></script>
+<script>
+	$(function() {
+		$(".university--head__nav").append('<a href="#translate" class="ttu-translate-trigger">Translate</a>');
+		$(".ttu-header-buttons").append('<li><a href="#translate" class="ttu-translate-trigger mobile-translate">Translate</a></li>');
+		$("body").prepend('<div id="translateWrapper"><div id="google_translate_element"></div><a href="https://www.ttu.edu/policy/translation.php">Disclaimer &raquo;</a><a id="wrapClose" href="#">[close]</a></div>');
+		
+		$(".ttu-translate-trigger").on("click tap touch",function(e){
+			e.preventDefault();
+			$("#translateWrapper").fadeIn();
+		});
+		$('body').on('change', '#google_translate_element select', hideWrapper);
+		$('body').on('click tap touch', '#wrapClose', hideWrapper);
+	});
+	function hideWrapper(e) {
+		e.preventDefault();
+		$("#translateWrapper").fadeOut();
+	}
+</script>
+
+<style>
+	div#translateWrapper {
+		display:none;
+		position: absolute;
+		top:0;
+		right:0;
+		z-index: 200;
+		padding: .25rem .5rem;
+		background: #efe3b9;
+		border-bottom-left-radius: 10px;
+		
+	}
+	div#translateWrapper a {
+		display:inline-block;
+		width:50%;
+		font-size: .7rem;
+		font-style: italic;
+	}
+	div#translateWrapper a#wrapClose{
+		display:inline-block;
+		width:50%;
+		font-style:normal;
+		text-align:right;
+	}
+	.skiptranslate.goog-te-gadget, a.goog-logo-link {font-size:.65rem !important; }
+	
+	.ttu-translate-trigger {
+		display: inline-block;
+		white-space: nowrap;
+		z-index: 3;
+		background: url("/_ttu-template/2017/img/google-translate.svg") no-repeat left center ;
+		width: 24px;
+		height: 44px;
+		overflow: hidden;
+		color: transparent !important;
+	}
+	@media only screen and (min-width: 1000px) {
+		.ttu-translate-trigger {
+			color: #666 !important;
+			background-size:14px;
+			padding-left: 18px;
+			width: auto;
+			height: auto;
+			overflow: visible;
+		}
+		.ttu-translate-trigger.mobile-translate {
+			display: none !important;
+		}
+	}
+	
+	#google_translate_element select {
+		width: 100%;
+		border: 1px solid #666;
+		font-family: 'ITC Charter W01',Georgia,Garamond,serif;
+		font-weight: 600;
+		padding: .25em;
+		color: #666;
+
+	}
+</style>   <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8TWBRS');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	var track = function(refurl,type,url) {
+	   ga('ttuTracker.send', 'event', type, 'click', refurl, {'hitCallback':
+		function () { document.location = url; }
+	   });
+	}
+	function buildLink(path,name) {
+		var page = location.href.replace("http://","#").replace("https://","#");
+		return "/"+path+"/"+name+"/"+page;
+	}	
+</script>
+
+   
+   <meta name="Author" content="State of Texas and Texas Tech University">
+   <meta name="Keywords" content="Texas Tech University College of Arts &amp; Sciences Microscopy, Flow Cytometry, Cell sorting, Electron Microscopy, Microscopy ">
+   <meta name="Description" content="CASM - College of Arts &amp; Sciences Microscopy, Flow Cytometry, Cell sorting, Electron Microscopy, Microscopy ">
+   
+   <script type="text/javascript">
+			var page_id="https://www.depts.ttu.edu/casm/index.php";
+			
+				var site_has_own_hostname="no";
+			</script>
+   
+   
+   </head><body style="position: relative; min-height: 100%; top: 0px;"><div id="translateWrapper"><div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="as">Assamese</option><option value="ay">Aymara</option><option value="az">Azerbaijani</option><option value="bm">Bambara</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bho">Bhojpuri</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="dv">Dhivehi</option><option value="doi">Dogri</option><option value="nl">Dutch</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="ee">Ewe</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gn">Guarani</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="ilo">Ilocano</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="rw">Kinyarwanda</option><option value="gom">Konkani</option><option value="ko">Korean</option><option value="kri">Krio</option><option value="ku">Kurdish (Kurmanji)</option><option value="ckb">Kurdish (Sorani)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="ln">Lingala</option><option value="lt">Lithuanian</option><option value="lg">Luganda</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mai">Maithili</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mni-Mtei">Meiteilon (Manipuri)</option><option value="lus">Mizo</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="or">Odia (Oriya)</option><option value="om">Oromo</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="qu">Quechua</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="sa">Sanskrit</option><option value="gd">Scots Gaelic</option><option value="nso">Sepedi</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="tt">Tatar</option><option value="te">Telugu</option><option value="th">Thai</option><option value="ti">Tigrinya</option><option value="ts">Tsonga</option><option value="tr">Turkish</option><option value="tk">Turkmen</option><option value="ak">Twi</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="ug">Uyghur</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select></div>Powered by <span style="white-space:nowrap"><a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com/" target="_blank"><img src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></div><a href="https://www.ttu.edu/policy/translation.php">Disclaimer »</a><a id="wrapClose" href="https://www.depts.ttu.edu/casm/#">[close]</a></div>
+   <!-- Main-header Logo Links = = = = = = = = = = = = = = = = = = = = = = = = = -->
+   <div class="university--head"><span class="university--head__title"><a href="http://www.ttu.edu/">Texas Tech University</a></span>
+      <nav class="university--head__nav">
+	<a href="http://directory.texastech.edu/" tabindex="2" aria-label="TTU System Online Directory">Directory</a>
+<a href="http://raiderlink.ttu.edu/" tabindex="3" aria-label="Raiderlink">Raiderlink</a>
+<a href="http://www.ttu.edu/site/" tabindex="4" aria-label="Site Index">A-Z Index</a>
+<a href="https://www.depts.ttu.edu/casm/#translate" class="ttu-translate-trigger">Translate</a></nav>
+<div class="university--head__search"> 
+	<!-- <a class="university__button" href="#">Menu<span></span></a>--> 
+	<a class="ttu-search-trigger" href="https://www.depts.ttu.edu/casm/#ttu-search"><span></span></a>
+</div>
+      </div>
+   <!-- Page Header Navigation = = = = = = = = = = = = = = = = = = = = = = = = = -->
+   <header class="ttu-main-header" id="nav">
+      <div class="logo__lockup"><a class="ttu-logo" href="https://www.depts.ttu.edu/casm/"><img src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/dbl__T.svg" alt="Texas Tech University Double T" width="5%" height="5%"></a><h1> College <em>of</em> Arts <em>and</em> Sciences Microscopy </h1>
+      </div>
+      <nav class="ttu-nav">
+      <ul id="cd-primary-nav" class="ttu-primary-nav is-fixed">
+         
+         <div class="c-page-header__mobile">
+            <label class="c-page-header__title moves-out"> College <em>of</em> Arts <em>and</em> Sciences Microscopy </label>
+            
+         </div>
+         
+         <li><a href="https://www.depts.ttu.edu/casm/includes/GEOL5304.php">Graduate Courses</a></li>
+         <li class="has-children "><a href="https://www.depts.ttu.edu/casm/#">About</a>
+            
+            <ul class="ttu-secondary-nav is-hidden">
+               <div class="c-page-header__mobile">
+                  <label class="c-page-header__title moves-out"> College <em>of</em> Arts <em>and</em> Sciences Microscopy <br>
+                     <span class="title--location">About</span>
+                     </label>
+                  
+               </div>
+               <li class="go-back"><a href="https://www.depts.ttu.edu/casm/#0">Back</a></li>
+               
+               <li><a href="https://www.depts.ttu.edu/casm/includes/mission.php">Mission Statement</a></li>
+               <li class="has-children "><a href="https://www.depts.ttu.edu/casm/#">Instructors- contact<br></a>
+                  
+                  <ul class="is-hidden ">
+                     <div class="c-page-header__mobile">
+                        <label class="c-page-header__title moves-out"> College <em>of</em> Arts <em>and</em> Sciences Microscopy <br>
+                           <span class="title--location">About</span>
+                           
+                           <br>
+                           <span class="title--location">Instructors- contact</span>
+                           </label>
+                        
+                     </div>
+                     <li class="go-back"><a href="https://www.depts.ttu.edu/casm/#0">Back</a></li>
+                     
+                     <li><a href="https://www.depts.ttu.edu/casm/Bios/Lizarraga.php">Stephanny Lizarraga</a></li>
+                     <li><a href="https://www.depts.ttu.edu/casm/Bios/Zhao.php">Bo Zhao</a></li>
+                     <li><a href="mailto:callum.hetherington@ttu.edu?subject=CASM">Callum Hetherington</a></li>
+                     <li><a href="mailto:peter.keyel@ttu.edu?subject=CASM">Peter Keyel</a></li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+         <li class="has-children "><a href="https://www.depts.ttu.edu/casm/#">Instruments-Training-SOPs</a>
+            
+            <ul class="ttu-secondary-nav is-hidden">
+               <div class="c-page-header__mobile">
+                  <label class="c-page-header__title moves-out"> College <em>of</em> Arts <em>and</em> Sciences Microscopy <br>
+                     <span class="title--location">Instruments-Training-SOPs</span>
+                     </label>
+                  
+               </div>
+               <li class="go-back"><a href="https://www.depts.ttu.edu/casm/#0">Back</a></li>
+               
+               <li><a href="https://www.depts.ttu.edu/casm/includes/Instruments/AttuneGuide.php" target="_parent">Universal Guidelines for Using the Attune</a></li>
+               <li><a href="https://www.depts.ttu.edu/casm/includes/Instruments/BX41Maintenanceandstartup.php">BX41 Maintenance</a></li>
+               <li><a href="https://www.depts.ttu.edu/casm/EM-Instruments-1.php" target="_parent">Electron Microscopy</a></li>
+               <li><a href="https://www.depts.ttu.edu/casm/Optical-1.php" target="_parent">Optical Microscopy</a></li>
+               <li><a href="https://www.depts.ttu.edu/casm/CSandC-1.php" target="_parent">Cell Sorting and Cytometry</a></li>
+               <li><a href="https://www.depts.ttu.edu/casm/SOPs.php" target="_parent">Instruments-SOPs</a></li>
+               <li><a title="Training Videos" href="https://www.depts.ttu.edu/casm/includes/Videos.php">Training Video</a></li>
+            </ul>
+         </li>
+         <li class="has-children "><a href="https://www.depts.ttu.edu/casm/includes/Prices.php">Lab Resources</a>
+            
+            <ul class="ttu-secondary-nav is-hidden">
+               <div class="c-page-header__mobile">
+                  <label class="c-page-header__title moves-out"> College <em>of</em> Arts <em>and</em> Sciences Microscopy <br>
+                     <span class="title--location">Lab Resources</span>
+                     </label>
+                  
+               </div>
+               <li class="go-back"><a href="https://www.depts.ttu.edu/casm/#0">Back</a></li>
+               
+               <li><a href="https://www.depts.ttu.edu/casm/includes/safety.php">Lab Safety Plan</a></li>
+               <li><a href="https://www.depts.ttu.edu/casm/includes/NewRate.php">Fee Schedule</a></li>
+               <li><a href="https://www.depts.ttu.edu/casm/includes/Competency.php">Competency Tier System</a></li>
+               <li><a title="Reservation calendar" href="https://sharepoint13.itts.ttu.edu/artsandsciences/AS_microscopy_facility/SitePages/Home.aspx">Reservation calendar</a></li>
+            </ul>
+         </li>
+         <div class="l-ttunav is-hidden"><label class="c-page-header__title">Additional Resources</label>
+            <a href="http://www.ttu.edu/" alt="TTU Home" title="TTU Home">TTU Home</a><a href="http://directory.texastech.edu/" tabindex="2" aria-label="TTU System Online Directory">Directory</a>
+<a href="http://raiderlink.ttu.edu/" tabindex="3" aria-label="Raiderlink">Raiderlink</a>
+<a href="http://www.ttu.edu/site/" tabindex="4" aria-label="Site Index">A-Z Index</a>
+</div>
+      </ul>
+      
+   </nav><ul class="ttu-header-buttons">
+	<li><a class="ttu-nav-trigger" href="https://www.depts.ttu.edu/casm/#ttu-primary-nav">Menu<span></span></a></li>
+	<li><a class="ttu-search-trigger mobile-search" href="https://www.depts.ttu.edu/casm/#ttu-search">Search<span></span></a></li>
+<li><a href="https://www.depts.ttu.edu/casm/#translate" class="ttu-translate-trigger mobile-translate">Translate</a></li></ul>
+      
+      </header>
+   <main class="ttu-main-content"><!-- Breadcrumbs = = = = = = = = = = = = = = = = = = = = = = = -->
+      <section class="breadcrumb">
+         <ul class="breadcrumbs">
+            
+            <li class="breadcrumbs-item"><a href="http://www.ttu.edu/" class="text-center icon-home">TTU</a></li>
+            <li class="breadcrumbs-item"><a href="https://www.depts.ttu.edu/casm/">CASM </a></li> </ul>
+      </section>
+      <!-- End Breadcrumbs = = = = = = = = = = = = = = = = = = = = = = = --><!-- Main content = = = = = = = = = = = = = = = = = = = = = = = -->
+      <section class="l-main-pagecontent">
+         <section class="layout-sidebar">
+            <div class="row">
+               <div class="large-12 columns">
+                  <h1></h1>
+                  <div class="row">
+                     <div class="columns  large-8">
+                        
+                           
+                           <h5><em><strong>Supporting Microscopy and Cell Cytometry Research and Education at Texas Tech University</strong></em></h5>
+                           <h5><a style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1rem; background-color: #fdfdfd;" href="https://texastechuniversity.sharepoint.com/sites/arts_and_sciences/artsandsciences/AS_microscopy_facility/Lists/Instrument%20Reservations/calendar.aspx"><img style="font-family: &#39;Charter ITC W01&#39;; font-size: 1.15em;" src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/reservations.png" alt="Reservations" width="245" height="92"></a></h5>
+                           <p><a title="Rates: 1 June, 2016" href="https://www.depts.ttu.edu/casm/includes/NewRate.php"><img src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/Rates.png" alt="Rates" width="245" height="92"></a>&nbsp;&nbsp;</p>
+                           <h4><em>NEWS- Welcome Stephanny Lizarraga our new Research Scientist!</em></h4>
+                           <p>&nbsp;</p>
+                           <section>
+                              <p>DATA TRANSFER POLICY</p>
+                           </section>
+                           <p>From 01/29/2020 on, we will change the data transfer policy throughout the CASM center.
+                              To protect our instrument computers from potential virus issue, we request all users
+                              to use our common flash drives dedicated for each instrument to copy data, then plug
+                              in the data computer in 114 to copy to your own flash drive or send through Email.
+                              Alternatively, you must scan your device on the data computer before plug it in any
+                              instrument computer in CASM. We appreciate your cooperation and let's do our best
+                              to keep a no virus environment for all users. Thanks!</p>
+                           <p><a class="external" href="https://www.depts.ttu.edu/casm/includes/GEOL5304.php">Graduate students and staff who need training in TEM or SEM techniques are requested
+                                 to take 5304. Techniques in Electron Microscopy and Microanalysis.</a></p>
+                           <p>For help in Materials Science or reserving an SEM or TEM Microscope please contact
+                              <a class="mail " href="mailto:bo.zhao@ttu.edu?subject=SEM">Dr. Bo Zhao</a>.</p>
+                           <p>For Biological Science, TEM, light microscopy or Flow Cytometry contact&nbsp;<a href="mailto:%20slizarra@ttu.edu">Stephanny Lizarraga</a>.</p>
+                           <p><em>To assist with designing polychromatic flow cytometry panels for use on the Cytometers,
+                                 users are encouraged to visit the <a class="external" href="https://app.fluorofinder.com/ttu-casm" target="_blank" rel="noopener">FluoroFinder web-page.</a></em></p>
+                           <p><strong><a class="external" href="https://www.depts.ttu.edu/casm/includes/safety.php">Lab Safety Plan</a></strong></p>
+                           <p><strong><a class="external" href="http://sigma-aldrich.com/msds">Safety Data Sheets&nbsp;</a><br></strong></p>
+                           <p>College of Arts &amp; Sciences Microscopy (CASM) of Texas Tech University located in the
+                              Experimental Sciences Building ESB 112 and ESB 114.&nbsp;</p>
+                           <p>The facility is open to all faculty, graduate students and area businesses interested
+                              in enhancing their research using the techniques of transmission electron and scanning
+                              electron microscopy. &nbsp;Trained users are given independent access to the instruments
+                              they require.</p>
+                           <p>The primary function of the laboratory is to train students, &nbsp;staff and faculty to
+                              become proficient in the techniques required for independent research. &nbsp;In addition,
+                              the facility also offers service work by special arrangement.&nbsp;</p>
+                           <p><em style="font-size: 1rem;"><strong>Texas Tech University College of Arts &amp; Sciences Microscopy</strong></em></p>
+                        
+                     </div>
+                     <div class="columns large-4">
+                        
+                           
+                           <h2 style="text-align: center;"><img style="vertical-align: top; display: block; margin-left: auto; margin-right: auto;" src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/04-13-17-CASM-LOGO.gif" alt="CASM Logo" width="150" height="150"><br>College of Arts &amp; Sciences Microscopy (CASM)</h2>
+                           <div style="text-align: center;">Texas Tech University, is located in the Experimental Sciences Building ESB 112 and
+                              ESB 114.</div>
+                           <div style="text-align: center;">&nbsp;</div>
+                           <div style="text-align: center;"><strong>Arts and Sciences Microscopy Acknowledgment:</strong></div>
+                           <p>If work generated on any of the instruments in the Texas Tech University College of
+                              Arts &amp; Sciences Microscopy (e.g. photos, analytical data, etc.) is to be used in a
+                              paper, thesis, dissertation, poster or some other form of presentation, College of
+                              Arts &amp; Sciences Microscopy (CASM) should be properly acknowledged. If most of the
+                              work was done by independently, without a great deal of input from the CASM staff
+                              (i.e. after the class is finished), the laboratory itself need only be acknowledged.
+                              If the CASM staff assisted in the acquisition of data or contributed significantly
+                              to your research in some other manner, personal attribution should be given to that
+                              staff member, as well as to the CASM. These acknowledgments are important and could
+                              be useful in the future for the acquisition of new instrumentation and funding. A
+                              copy of the acknowledgment would also be greatly appreciated.</p>
+                           <p>If the Hitachi S-4300SE/N was used, please include the NSF grant number: NSF DBI-0421032
+                              College of Arts &amp; Sciences Microscopy, Texas Tech University</p>
+                        
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </section>
+      <!-- End Main Content = = = = = = = = = = = = = = = = = = = = = --><!-- Contact Info = = = = = = = = = = = = = = = = = = = = = = = = = https://www.depts.ttu.edu/casm/includes/contacts.php-->
+      <section class="l-contact">
+         <div class="c-contactinfo__container">
+            <div class="c-contactinfo__title">
+               <h1> College <em>of</em> Arts <em>and</em> Sciences Microscopy </h1>
+            </div>
+            <ul>
+   <li>
+      <h3>Email</h3>
+      <a href="mailto:bo.zhao@ttu.edu">bo.zhao@ttu.edu</a></li>
+</ul></div>
+         </section>
+      
+      <!-- Footer = = = = = = = = = = = = = = = = = = = = = = = = = -->
+      <footer class="l-footer-university"><!-- Address / Slogan --><!-- = = = = = = = = == = = = = = -->
+         <div class="c-footer-university__slogan"><h2>Texas Tech University</h2>
+<ul class="c-footer__address">
+	<li> 2500 Broadway Lubbock, Texas 79409</li>
+	<li><a href="tel:8067422011">806.742.2011</a></li>
+</ul>
+            
+            <div class="l-socialbar"><h4>Follow Texas Tech University</h4>
+<ul>
+	<li><a href="https://www.facebook.com/TexasTechUniversity/"><svg version="1.1" role="img" aria-labelledby="title_facebook desc_facebook" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_facebook">Like Texas Tech University on Facebook</title><desc id="desc_facebook">Like Texas Tech University on Facebook</desc><path class="inner-shape" d="M200.8,400H266V242.4h43.8c0,0,4.1-25.4,6.1-53.2h-49.6v-36.3c0-5.4,7.1-12.7,14.2-12.7H316V85h-48.4       c-68.5,0-66.9,53.1-66.9,61v43.4H169v53h31.8L200.8,400L200.8,400z"></path></svg></a></li>
+	<li><a href="http://www.twitter.com/texastech/"><svg version="1.1" role="img" aria-labelledby="title_twitter desc_twitter" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_twitter">Follow Texas Tech University on X (twitter)</title><desc id="desc_twitter">Follow Texas Tech University on X (twitter)</desc><path class="inner-shape" d="M271.8,218.4L386.6,85h-27.2l-99.6,115.8L180.2,85H88.4l120.3,175.1L88.4,400h27.2l105.2-122.3l84,122.3h91.8L271.8,218.4       L271.8,218.4z M234.6,261.7l-12.2-17.4l-97-138.8h41.8l78.3,112l12.2,17.4l101.8,145.6h-41.8L234.6,261.7L234.6,261.7L234.6,261.7z"></path></svg></a></li>
+	<li><a href="http://foursquare.com/texastech"><svg version="1.1" role="img" aria-labelledby="title_foursquare desc_foursquare" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_foursquare">Check in with Texas Tech University on FourSquare</title><desc id="desc_foursquare">Check in with Texas Tech University on FourSquare</desc><path class="inner-shape" d="M129.7,383.4c0.7,7.2,3.7,12.8,10.8,15.5c6.8,2.6,15.7,0.5,20.2-4.7c14.4-16.7,28.8-33.4,43.1-50.1       c12-14,24.1-28,36.1-42.1c1.9-2.3,4.1-3.2,7-3.1c15.9,0.1,31.8,0.1,47.7,0c14-0.1,22.5-6.4,26.8-19.7c0.9-2.8,1.6-5.6,2.2-8.5       c9.4-45,18.7-90,28-135c2.1-10.1,4.7-20.1,3.4-30.7c-1.1-9.1-6.3-15.8-15.1-18.4c-2.3-0.7-4.7-1.1-7-1.6H154.8       c-3.5,1-7.2,1.5-10.4,3.3c-10.2,5.6-14.8,14.4-14.8,25.8c0,88.6,0,177.2,0,265.9C129.6,381.1,129.6,382.2,129.7,383.4z       M164.8,131.2c0-8.2,2.8-11,11.1-11c43.7,0,87.4,0,131.1,0c8.1,0,11.5,4,9.9,12c-2.2,11.3-4.6,22.5-7,33.8       c-1.2,5.5-4.6,8.1-10.3,8.1c-20.6,0-41.2,0-61.8,0c-10.6,0-16.1,5.4-16.1,16c0,1.7,0,3.4,0,5c0.1,8.3,6,14.2,14.3,14.2       c17.7,0.1,35.3,0,53,0c2.2,0,4.4,0.1,6.3,1.5c3.1,2.2,4.1,5.3,3.4,8.8c-2.4,12.4-4.9,24.8-7.6,37.2c-0.9,4.2-4.1,6.5-8.8,6.5       c-11.4,0-22.8,0-34.2,0c-5.4,0-10.9,0.3-16.3,0.5c-3.6,0.1-6.7,1.5-9.1,4.2c-7.3,8.2-13.9,17-20.8,25.5       c-11.9,14.7-23.7,29.5-35.5,44.3c-0.3,0.4-0.7,0.8-1.2,1.3c-0.9-1.4-0.6-2.6-0.6-3.7C164.8,267.3,164.8,199.3,164.8,131.2z"></path></svg></a></li>
+	<li><a href="http://www.youtube.com/user/texastech/"><svg version="1.1" role="img" aria-labelledby="title_youtube desc_youtube" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_youtube">Subscribe to Texas Tech University on YouTube</title><desc id="desc_youtube">Subscribe to Texas Tech University on YouTube</desc><path class="inner-shape" d="M124.5,347.9c39.1,4.4,78.6,4.4,117.9,4.4c39.4,0,78.9,0,118-4.4c16.5-1.8,30.2-14.2,34.1-31c5.5-23.8,5.5-49.9,5.5-74.5       s0-50.6-5.4-74.4c-3.9-16.8-17.6-29.1-34.1-31c-39.1-4.4-78.6-4.4-117.9-4.4c-39.4,0-78.9,0-118,4.4c-16.5,1.8-30.2,14.2-34,31       c-5.5,23.8-5.6,49.9-5.6,74.5s0,50.6,5.5,74.5C94.3,333.7,108,346.1,124.5,347.9z M201.9,187.2c33.4,17.4,66.5,34.7,100.1,52.2       c-33.5,17.4-66.7,34.6-100.1,51.9L201.9,187.2L201.9,187.2z"></path></svg></a></li>
+	<li><a href="http://www.flickr.com/photos/texas-tech/"><svg version="1.1" role="img" aria-labelledby="title_flickr desc_flickr" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_flickr">Follow Texas Tech University on Flickr</title><desc id="desc_flickr">Follow Texas Tech University on Flickr</desc><g class="inner-shape"><path d="M155.6,312.5c39,0,70.6-31.3,70.6-70s-31.6-70-70.6-70S85,203.8,85,242.5C85,281.2,116.6,312.5,155.6,312.5z"></path><path d="M329.4,312.5c39,0,70.6-31.3,70.6-70s-31.6-70-70.6-70s-70.6,31.3-70.6,70S290.4,312.5,329.4,312.5z"></path></g></svg></a></li>
+	<li><a href="https://www.instagram.com/texastech/"><svg version="1.1" role="img" aria-labelledby="title_instagram desc_instagram" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_instagram">Follow Texas Tech University on Instagram</title><desc id="desc_instagram">Follow Texas Tech University on Instagram</desc><g class="inner-shape"><path d="M320.5,85H164.5C120.7,85,85,120.7,85,164.5v156.1c0,43.8,35.6,79.5,79.5,79.5h156.1c43.8,0,79.4-35.6,79.4-79.5V164.5       C400,120.7,364.3,85,320.5,85z M365.7,320.6c0,24.9-20.3,45.2-45.2,45.2H164.5c-24.9,0-45.2-20.3-45.2-45.2V164.5       c0-24.9,20.3-45.2,45.2-45.2h156.1c24.9,0,45.2,20.3,45.2,45.2V320.6z"></path><path d="M326.2,178.2c-10.6,0-19.2-8.6-19.2-19.2c0-10.6,8.6-19.2,19.2-19.2c10.6,0,19.2,8.6,19.2,19.2       C345.4,169.6,336.8,178.2,326.2,178.2L326.2,178.2z"></path><path d="M242.5,161.4c-44.7,0-81.1,36.4-81.1,81.1c0,44.7,36.4,81.1,81.1,81.1c44.7,0,81.1-36.4,81.1-81.1       C323.6,197.8,287.2,161.4,242.5,161.4z M242.5,289.4c-25.8,0-46.8-21-46.8-46.8c0-25.8,21-46.8,46.8-46.8       c25.8,0,46.8,21,46.8,46.8C289.3,268.4,268.3,289.4,242.5,289.4z"></path></g></svg></a></li>
+	<li><a href="http://www.linkedin.com/companies/texas-tech-university"><svg version="1.1" role="img" aria-labelledby="title_linkedin desc_linkedin" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_linkedin">Connect with Texas Tech University on LinkedIn</title><desc id="desc_linkedin">Connect with Texas Tech University on LinkedIn</desc><g class="inner-shape"><path d="M89,189.9c0,0,1.5,0,3.9,0h63.6V393H89V189.9z"></path><path d="M122.3,162.2h0.4c23.6,0,38.2-15.6,38.2-35.1c-0.4-19.9-14.6-35.1-37.8-35.1C100.1,92,85,107.2,85,127.1       C85,146.6,99.7,162.2,122.3,162.2z"></path><path d="M261.4,393V279.6c0-6.1,0.5-12.1,2.2-16.5c4.9-12.1,16-24.7,34.6-24.7c24.4,0,34.2,18.6,34.2,45.9V393H400V276.5       c0-62.4-33.3-91.4-77.7-91.4c-35.9,0-51.9,19.7-60.9,33.5v0.7H261c0.1-0.2,0.3-0.4,0.4-0.7v-28.8h-67.5c0.9,19.1,0,203.1,0,203.1       L261.4,393L261.4,393z"></path></g></svg></a></li>
+	<li><a href="http://mobile.ttu.edu/"><svg version="1.1" role="img" aria-labelledby="title_phone desc_phone" x="0px" y="0px" viewBox="0 0 485 485" enablebackground="new 0 0 485 485" style="width:100%;height:30px;"><title id="title_phone">Contact Texas Tech University</title><desc id="desc_phone">Contact Texas Tech University</desc><g class="inner-shape"><path d="M310.3,411H174.7c-14.4,0-26.1-11.7-26.1-26.1V100.2c0-14.4,11.7-26.1,26.1-26.1h135.6c14.4,0,26.1,11.7,26.1,26.1v284.7       C336.5,399.3,324.7,411,310.3,411z M174.7,91c-5.1,0-9.2,4.1-9.2,9.2v284.7c0,5.1,4.1,9.2,9.2,9.2h135.6c5.1,0,9.2-4.1,9.2-9.2       V100.2c0-5.1-4.1-9.2-9.2-9.2H174.7z"></path><path d="M321.9,348.6H163.1c-5.7,0-10.3-4.6-10.3-10.3V126.1c0-5.7,4.6-10.3,10.3-10.3h158.9c5.7,0,10.3,4.6,10.3,10.3v212.2       C332.2,344,327.6,348.6,321.9,348.6z M163.1,124.3c-1,0-1.8,0.8-1.8,1.8v212.2c0,1,0.8,1.8,1.8,1.8h158.9c1,0,1.8-0.8,1.8-1.8       V126.1c0-1-0.8-1.8-1.8-1.8H163.1z"></path><path d="M242.5,386.2c-8.9,0-16.2-7.2-16.2-16.2s7.2-16.2,16.2-16.2s16.2,7.2,16.2,16.2S251.4,386.2,242.5,386.2z M242.5,360.2       c-5.4,0-9.8,4.4-9.8,9.8s4.4,9.8,9.8,9.8s9.8-4.4,9.8-9.8S247.9,360.2,242.5,360.2z"></path><path d="M261.6,105h-38.1c-1.8,0-3.2-1.4-3.2-3.2s1.4-3.2,3.2-3.2h38.1c1.8,0,3.2,1.4,3.2,3.2S263.3,105,261.6,105z"></path></g></svg></a></li>
+</ul>
+               </div>
+         </div>
+         <!-- Links --> 
+<!--= = = = = = = = = = = = = = -->
+<nav class="c-footer-university__links">
+	<ul>
+		<li><a href="mailto:webmaster@ttu.edu?subject=Contact%20TTU%20-%20http%3A%2F%2Fwww.depts.ttu.edu%2Fcasm%2Findex.php">Contact Us</a></li>
+		<li><a href="http://www.ttu.edu/map/">Campus Map</a></li>
+		<li><a href="http://careers.texastech.edu/">Jobs @ TTU</a></li>
+		<li><a href="https://www.ttu.edu/techalert/">TechAlert</a></li>
+		<li><a href="http://www.ttu.edu/policy/">General Policy Information</a></li>
+		<li><a href="http://www.ttu.edu/courseinfo/">Public Access to Course Info</a></li>
+		<li><a href="http://www.depts.ttu.edu/operations/EnergyManagement/">Energy Management</a></li>
+		<li><a href="https://www.ttu.edu/wellbeing/">Mental Health Resources</a></li>
+		<li><a href="http://www.depts.ttu.edu/titleix/">Title IX</a></li>
+		<li><a href="https://secure.ethicspoint.com/domain/media/en/gui/12414/index.html">Fraud and Misconduct Hotline</a></li>
+		<li><a href="https://apps.highered.texas.gov/resumes/" style="font-size:1.05em">Online Institutional Resumes</a></li>
+	</ul>
+	<ul>
+		<li><a href="https://www.texastech.edu/">TTU System</a></li>
+		<li><a href="https://www.ttuhsc.edu/">TTU Health Sciences Center</a></li>
+		<li><a href="https://elpaso.ttuhsc.edu/">TTUHSC El Paso</a></li>
+		<li><a href="https://www.angelo.edu/">Angelo State University</a></li>
+		<li><a href="https://www.msutexas.edu/">Midwestern State University</a></li>
+		<li><a href="https://www.tsl.texas.gov/trail/" target="_blank">Statewide Search</a></li>
+		<li><a href="https://texas.gov/" target="_blank">State of Texas</a></li>
+		<li><a href="http://www.texashomelandsecurity.com/" target="_blank">Texas Homeland Security</a></li>
+		<li><a href="https://veterans.portal.texas.gov/" target="_blank">Texas Veterans Portal</a></li>
+		<li><a href="http://www.txcrews.org/" target="_blank">Texas CREWS</a></li>
+		<li><a href="https://sao.fraud.texas.gov/" target="_blank">SAO Fraud Reporting</a></li>
+		<li><a href="https://www.texastech.edu/ogc/open-records.php" target="_blank">Open Records Requests</a></li>
+	</ul>
+</nav>
+         </footer>
+      <div class="l-footer-copyright"><a href="http://www.ttu.edu/">© 2024            					&nbsp;Texas Tech University</a>
+         <a href="https://a.cms.omniupdate.com/11/?skin=ttu&amp;account=main&amp;site=casm&amp;action=de&amp;path=/index.pcf" target="_blank">Jun 14, 2023</a>&nbsp;3:27 PM</div>
+      </main>
+   <!-- Menu Overlay = = = = = = = = = = = = = = = = = = = = = -->
+   <div class="ttu-overlay"></div>
+   
+   
+   <p>&nbsp;</p>
+   
+   
+   
+
+   <!-- TTU Search -->
+<div id="ttu-search" class="ttu-search">
+	<form action="https://www.ttu.edu/search/" method="get">
+		<input type="search" placeholder="Search..." name="query" aria-label="Search TTU Site">
+	</form>
+</div>
+<script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/classie.js.download"></script> 
+<script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/main.js.download"></script> 
+<script src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/stickykit.js.download"></script> 
+<script>
+    $("#nav").stick_in_parent({
+        bottoming: false
+    });
+    </script> 
+<script>
+
+$(function() {
+    var header = $(".clearHeader");
+    $(window).scroll(function() {    
+        var scroll = $(window).scrollTop();
+    
+        if (scroll >= 100) {
+            header.removeClass('clearHeader').addClass("darkHeader");
+        } else {
+            header.removeClass("darkHeader").addClass('clearHeader');
+        }
+    });
+});
+
+
+</script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: &#39;Google Sans&#39;, Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="https://translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0" src="./College of Arts &amp; Sciences Microscopy _ CASM _ TTU_files/saved_resource.html"></iframe></div></div></div>
+   
+   
+<div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
